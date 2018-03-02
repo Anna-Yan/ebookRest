@@ -1,0 +1,11 @@
+com\mycompany\ebookRest\config\WebInitializer.class
+com\mycompany\ebookRest\Controller.class
+com\mycompany\ebookRest\App.class
+com\mycompany\ebookRest\config\WebConfig.class
+com\mycompany\ebookRest\DAO\StudentDAOImpl.class
+com\mycompany\ebookRest\config\HibernateConfig.class
+com\mycompany\ebookRest\DAO\StudentDAO.class
+com\mycompany\ebookRest\DAO\SubjectDAOImpl.class
+com\mycompany\ebookRest\entity\Subject.class
+com\mycompany\ebookRest\entity\Student.class
+com\mycompany\ebookRest\DAO\SubjectDAO.class
