@@ -22,7 +22,7 @@ public class Controller {
 	@ResponseBody
 	public List<Student> getStudents()
 	{
-		System.out.println("Mesageeee:In Controller: getStudentsList ");
+		System.out.println("My mesageeee:In Controller: getStudentsList ");
 		List<Student> list = null;
 			try {
 				list=studentDAO.getAllStudents();
